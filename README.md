@@ -1,8 +1,6 @@
 Essa estrutura permite que gestores de engenharia de software tenham conversas significativas com seus subordinados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
-Embora a estrutura use funções e níveis que sejam um pouco padrão no setor de tecnologia dos EUA, toda empresa é diferente.Por favor, use as informações fornecidas como uma linha de base e sinta -se livre de ajustá -las às suas necessidades.
-
-A estrutura depende muito de gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
+A estrutura utiliza gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
