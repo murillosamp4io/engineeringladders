@@ -1,4 +1,5 @@
-# RDStation - Estrutura de carreira para Engenharia de software
+# RDStation 
+# Estrutura de carreira para Engenharia de software
 
 Essa estrutura permite que gerentes de engenharia de software tenham conversas significativas com seus subordinados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
