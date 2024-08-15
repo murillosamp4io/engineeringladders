@@ -12,9 +12,9 @@ A estrutura depende muito de gráficos de radar para representar visualmente as 
   <img alt="Template Chart" src="charts/template.png">
 </picture>
 
-# Career Ladders
+# Escadas de carreira
 
-The framework has 4 different ladders:
+A estrutura tem 4 escadas diferentes:
 
 * [**Developer**](Developer.md): Função também conhecida como programador ou engenheiro de software, requer um nível profundo de experiência técnica
 * [**Tech Lead**](TechLead.md): é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte à produção 
