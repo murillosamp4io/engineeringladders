@@ -1,5 +1,5 @@
-# RDStation 
 # Estrutura de carreira para Engenharia de software
+by: RD Station
 
 Essa estrutura permite que gerentes de engenharia de software tenham conversas significativas com seus subordinados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
@@ -53,11 +53,11 @@ Continue lendo para entender melhor cada nível.
 
 ## Technology (Tecnologia)
 
-1. **Adopts**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
-2. **Specializes**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novos
-3. **Evangelizes**: Pesquisas, cria provas de conceito e apresenta novas tecnologias para a equipe
-4. **Masters**: tem conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
-5. **Creates**: projeta e cria novas tecnologias que são amplamente utilizadas por equipes internas ou externas
+1. **Adopts (Adota)**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
+2. **Specializes (Especializada)**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novos
+3. **Evangelizes (Evangize)**: Pesquisas, cria provas de conceito e apresenta novas tecnologias para a equipe
+4. **Masters (Mestre)**: tem conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
+5. **Creates (Cria)**: projeta e cria novas tecnologias que são amplamente utilizadas por equipes internas ou externas
 
 ## System (Sistema)
 
