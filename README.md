@@ -1,4 +1,4 @@
-Essa estrutura permite que gerentes de engenharia de software tenham conversas significativas com seus subordinados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
+Essa estrutura permite que gestores de engenharia de software tenham conversas significativas com seus subordinados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
 Embora a estrutura use funções e níveis que sejam um pouco padrão no setor de tecnologia dos EUA, toda empresa é diferente.Por favor, use as informações fornecidas como uma linha de base e sinta -se livre de ajustá -las às suas necessidades.
 
