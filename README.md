@@ -17,7 +17,7 @@ A estrutura depende muito de gráficos de radar para representar visualmente as 
 The framework has 4 different ladders:
 
 * [**Developer**](Developer.md): Função também conhecida como programador ou engenheiro de software, requer um nível profundo de experiência técnica
-* [**Tech Lead**](TechLead.md): é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte à produção
+* [**Tech Lead**](TechLead.md): é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte à produção 
 * [**Engineering Team Leader**](TechnicalProgramManager.md): Função responsável por coordenar e dirigir para iniciativas de conclusão que abrangem várias equipes
 * [**Engineering Manager**](EngineeringManager.md): Função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento da carreira e nível de felicidade da equipe
 
