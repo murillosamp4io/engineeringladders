@@ -2,9 +2,9 @@
 
 Essa estrutura permite que gerentes de engenharia de software tenham conversas significativas com seus subordinados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua carreira.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
+Embora a estrutura use funções e níveis que sejam um pouco padrão no setor de tecnologia dos EUA, toda empresa é diferente.Por favor, use as informações fornecidas como uma linha de base e sinta -se livre de ajustá -las às suas necessidades.
 
-The framework relies heavily on radar charts to visually represent the different perspectives and expectations of a given position:
+A estrutura depende muito de gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
@@ -16,110 +16,106 @@ The framework relies heavily on radar charts to visually represent the different
 
 The framework has 4 different ladders:
 
-* [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
-* [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that span multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
+* [**Developer**](Developer.md): Função também conhecida como programador ou engenheiro de software, requer um nível profundo de experiência técnica
+* [**Tech Lead**](TechLead.md): é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte à produção
+* [**Engineering Team Leader**](TechnicalProgramManager.md): Função responsável por coordenar e dirigir para iniciativas de conclusão que abrangem várias equipes
+* [**Engineering Manager**](EngineeringManager.md): Função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento da carreira e nível de felicidade da equipe
 
 If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Senior | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
-| :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | No | [D1](Developer.md#d1---developer-1) | | | |
-| 2 | No | [D2](Developer.md#d2---developer-2) | | | |
-| 3 | No | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | Yes | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | Yes | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Yes | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Yes | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| Level | [Developer](Developer.md) | [Liderança Técnica](TechLead.md) | [Engineering Team Leader](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
+| :---: | :---: | :---: | :---: |  :---: |
+| l | [Dev 1](Developer.md#d1---developer-1) | | | |
+| ll | [Dev 2](Developer.md#d2---developer-2) | | | |
+| lll | [Dev 3](Developer.md#d3---developer-3) | | | |
+| lV | [Dev 4](Developer.md#d4---developer-4) | [Tech Lead](TechLead.md#tl4---tech-lead-4) | [Eng. Team Leader l](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
+| V | [Dev 5](Developer.md#d5---developer-5) | [Principal](TechLead.md#tl5---tech-lead-5) | [Eng. Team Leader ll](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [Eng. Manager](EngineeringManager.md#em5---engineering-manager-5) |
 
-(click on position name for more details)
+(Clique no nome da posição para mais detalhes)
 
-# Axes
+# Eixos
 
-The chart shown above has the following 5 axes:
-* **Technology**: knowledge of the tech stack and tools
-* **System**: level of ownership of the system(s)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with the development process
-* **Influence**: scope of influence of the position
+O gráfico mostrado acima tem os seguintes 5 eixos:
+* **Technology** (Tecnologia): conhecimento da pilha de tecnologia e ferramentas
+* **System** (Sistema): nível de propriedade do(s) sistema(s)
+* **People** (Pessoas): relacionamento com a (s) equipe (s)
+* **Process** (Processos): nível de envolvimento com o processo de desenvolvimento
+* **Influence** (Influência): escopo de influência da posição
 
 The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+Cada eixo tem 5 níveis diferentes de desempenho.É importante destacar que todos os níveis incluem o (s) anterior (s).Por exemplo, alguém que *evangelizes* technology, *specializes* e *adopts* também.
 
-Keep reading to better understand each level.
+Continue lendo para entender melhor cada nível.
 
-# Levels
+# Níveis
 
-## Technology
+## Technology (Tecnologia)
 
-1. **Adopts**: actively learns and adopts the technology and tools defined by the team
-2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-4. **Masters**: has very deep knowledge about the whole technology stack of the system
-5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+1. **Adopts**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
+2. **Specializes**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novos
+3. **Evangelizes**: Pesquisas, cria provas de conceito e apresenta novas tecnologias para a equipe
+4. **Masters**: tem conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
+5. **Creates**: projeta e cria novas tecnologias que são amplamente utilizadas por equipes internas ou externas
 
-## System
+## System (Sistema)
 
-1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+1. **Enhances**: empurra com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
+2. **Designs**: projeta e implementa recursos de tamanho médio a grande enquanto reduz a dívida tecnológica do sistema
+3. **Owns**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
+4. **Evolves**: Evolui a arquitetura para apoiar os requisitos futuros e define seus SLAs
+5. **Leads**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
 
-## People
+## People (Pessoas)
 
-1. **Learns**: quickly learns from others and consistently steps up when it is required
-2. **Supports**: proactively supports other team members and helps them to be successful
-3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-5. **Manages**: manages the team members' career, expectations, performance and level of happiness
+1. **Learns**: aprende rapidamente com os outros e aumenta consistentemente quando é necessário
+2. **Supports**: apoia proativamente outros membros da equipe e os ajuda a ter sucesso
+3. **Mentors**: orienta outros para acelerar seu crescimento na carreira e incentivá-los a participar
+4. **Coordinates**: Coordena os membros da equipe que fornecem feedback eficaz e moderando discussões
+5. **Manages**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
 
-## Process
+## Process (Processos)
 
-1. **Follows**: follows the team processes, delivering a consistent flow of features to production
-2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
-3. **Challenges**: challenges the team processes, looking for ways to improve them
-4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+1. **Follows**: segue os processos da equipe, fornecendo um fluxo consistente de recursos para a produção
+2. **Enforces**: Aplica os processos da equipe, certificando -se de que todos entendam os benefícios e trocas
+3. **Challenges**: Desafia a equipe processa, procurando maneiras de melhorá -los
+4. **Adjusts**: Ajusta os processos da equipe, ouvindo feedback e orientando a equipe através das mudanças
+5. **Defines**: define os processos certos para o nível de maturidade da equipe, equilibrando a agilidade e a disciplina
 
-## Influence
+## Influence (Influência)
 
-1. **Subsystem**: makes an impact on one or more subsystems
-2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+1. **Subsystem**: causam impacto em um ou mais subsistemas
+2. **Team**: causar um impacto em toda a equipe, não apenas em partes específicas
+3. **Multiple Teams**: causar um impacto não apenas sua equipe, mas também em outras equipes
+4. **Company**: causam impacto em toda a organização de tecnologia
+5. **Community**: causam impacto na comunidade de tecnologia
 
 # FAQs
 
-**What if some of the people don't meet all the points?**
+**E se algumas pessoas não atingirem todos os pontos?**
 
-That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
+Isso é muito normal, as pessoas geralmente são mais fortes em algumas áreas e mais fracas em outras.A estrutura não deve ser usada como uma lista de verificação para promover as pessoas, mas como orientação para ter conversas de carreira significativas.
 
-**What if my organization's career ladder is different?**
+<!-- **E se a escada de carreira da minha organização for diferente?**
 
-Since the framework is open source, you have the opportunity to adapt it to your organization. Feel free to use the [chart template](charts/template.png) to define your own levels.
+Como a estrutura é de código aberto, você tem a oportunidade de adaptá -lo à sua organização.Sinta -se à vontade para usar o [modelo do gráfico] (gráficos/modeling.png) para definir seus próprios níveis.
 
-**When is a person ready to move to the next level?**
+**Quando uma pessoa está pronta para se mudar para o próximo nível?**
 
-Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
+As empresas geralmente esperam que uma pessoa esteja se apresentando no próximo nível * de forma consistente por vários meses * antes de formalizar uma promoção. -->
 
-**How do I collect evidence to support the discussion with my direct reports?**
+**Como coleto evidências para apoiar a discussão com meus relatórios diretos?**
 
-Different teams collect evidence in different ways. A recommended approach is to use a combination of:
-* 1:1 conversations
-* Feedback from peers and other teams
-* Self-evaluation
+Equipes diferentes coletam evidências de maneiras diferentes.Uma abordagem recomendada é usar uma combinação de:
+* 1:1 conversas
+* Feedback de colegas e outras equipes
+* Auto-avaliação
 
-**Could the framework provide more specific examples of behavior to support each level?**
+**A estrutura poderia fornecer exemplos mais específicos de comportamento para apoiar cada nível?**
 
-Specific examples of behavior require knowledge about the way that the team works, the system architecture and its technology stack. It is recommended to allow each team to define their own examples.
+Exemplos específicos de comportamento exigem conhecimento sobre a maneira como a equipe funciona, a arquitetura do sistema e sua pilha de tecnologia.Recomenda -se permitir que cada equipe defina seus próprios exemplos.
 
-**Why does the framework stop at level 7?**
-
-Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.
+<!-- **TBD**
 
 **Do you have any additional resources about the topic?**
 
@@ -134,4 +130,4 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 * [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Managing Managers**](Managing-Managers.md) -->
