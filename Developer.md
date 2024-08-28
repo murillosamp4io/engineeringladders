@@ -9,8 +9,6 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | 3 | No | [D3 - Developer 3](#d3---developer-3) |
 | 4 | Yes | [D4 - Developer 4](#d4---developer-4) |
 | 5 | Yes | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Yes | [D6 - Developer 6](#d6---developer-6) |
-| 7 | Yes | [D7 - Developer 7](#d7---developer-7) |
 
 ## D1 - Developer 1
 
@@ -20,11 +18,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 1" src="/charts/developer-1.png">
 </picture>
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team
-* **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-* **Learns**: quickly learns from others and consistently steps up when it is required
-* **Follows**: follows the team processes, delivering a consistent flow of features to production
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **Adopts (Adota)**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
+* **Enhances Enhances**: Entrega com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
+* **Learns (Aprende)**: Aprende rapidamente com os outros e aumenta consistentemente quando é necessário
+* **Follows (Segue)**: Segue os processos da equipe, fornecendo um fluxo consistente de recursos para a produção
+* **Subsystem (Subsistema)**: Causa impacto em um ou mais subsistemas ou vagens de equipe
 
 ## D2 - Developer 2
 
@@ -34,11 +32,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 2" src="/charts/developer-2.png">
 </picture>
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Supports**: proactively supports other team members and helps them to be successful
-* **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+**Adota (Adota)**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
+**Designs (Desenha)**: Projeta e implementa recursos de tamanho médio a grande enquanto reduz a dívida tecnológica do sistema
+**Supports (Suporta)**: Apoia proativamente outros membros da equipe e os ajuda a ter sucesso
+**Enforces (Aplica)**: Aplica a equipe Processos, certificando -se de que todos entendam os benefícios e trocas
+**Subsystem (Subsistema)**: Causa impacto em um ou mais subsistemas
 
 ## D3 - Developer 3
 
@@ -48,11 +46,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 3" src="/charts/developer-3.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Supports**: proactively supports other team members and helps them to be successful
-* **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Specializes (Especializa)**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novos
+* **Designs (Desenha)**: projeta e implementa recursos de tamanho médio a grande enquanto reduz a dívida tecnológica do sistema
+* **Supports (Auxilia)**: apoia proativamente outros membros da equipe e os ajuda a ter sucesso
+* **Challenges (Desafia)**: Desafia a equipe processa, procurando maneiras de melhorá -los
+* **Team (Time)**: causar um impacto em toda a equipe, não apenas em partes específicas
 
 ## D4 - Developer 4
 
@@ -62,11 +60,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 4" src="/charts/developer-4.png">
 </picture>
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Evangelizes (Evangeliza)** Pesquisas, cria provas de conceito e apresenta novas tecnologias para a equipe
+* **Owns (Possui)** possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
+* **Mentors (Mentora)** orienta outros a acelerar seu crescimento de carreira e os incentiva a participar
+* **Challenges (Desafia)** Desafia a equipe processa, procurando maneiras de melhorá -los
+* **Team (Time)** causa um impacto em toda a equipe, não apenas em partes específicas dele
 
 ## D5 - Developer 5
 
@@ -76,39 +74,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 5" src="/charts/developer-5.png">
 </picture>
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
-
-## D6 - Developer 6
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-6.png">
-  <img alt="Developer 6" src="/charts/developer-6.png">
-</picture>
-
-* **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Company**: makes an impact on the whole tech organization
-
-## D7 - Developer 7
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-7.png">
-  <img alt="Developer 7" src="/charts/developer-7.png">
-</picture>
-
-* **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Community**: makes an impact on the tech community
+* **Masters (Mestre)** tem um conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
+* **Evolves (Evolui)** Evolui a arquitetura para apoiar os requisitos futuros e define seus SLAs
+* **Mentors (Mentora)** orienta outros a acelerar seu crescimento de carreira e os incentiva a participar
+* **Adjusts (Ajusta)** Ajusta os processos da equipe, ouvindo feedback e orientando a equipe através das alterações
+* **Multiple Teams (várias equipes)** causam impacto não apenas em toda a equipe, mas também em outras equipes
 
 # Other Pages
 
