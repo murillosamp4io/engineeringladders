@@ -3,7 +3,6 @@ Essa estrutura permite que gestores de engenharia de software tenham conversas s
 A estrutura utiliza gráficos de radar para representar visualmente as diferentes perspectivas e expectativas de uma determinada posição:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="charts/template.png">
   <img alt="Template Chart" src="charts/template.png">
 </picture>
@@ -21,11 +20,13 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 | Level | [Developer](Developer.md) | [Liderança Técnica](TechLead.md) | [Engineering Team Leader](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: |  :---: |
-| l | [Dev 1](Developer.md#d1---developer-1) | | | |
-| ll | [Dev 2](Developer.md#d2---developer-2) | | | |
-| lll | [Dev 3](Developer.md#d3---developer-3) | | | |
-| lV | [Dev 4](Developer.md#d4---developer-4) | [Tech Lead](TechLead.md#tl4---tech-lead-4) | [Eng. Team Leader l](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| V | [Dev 5](Developer.md#d5---developer-5) | [Principal](TechLead.md#tl5---tech-lead-5) | [Eng. Team Leader ll](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [Eng. Manager](EngineeringManager.md#em5---engineering-manager-5) |
+| l | [Dev 1](Developer.md#d1---developer-1) | - | - | - |
+| ll | [Dev 2](Developer.md#d2---developer-2) | - | - | - |
+| lll | [Dev 3](Developer.md#d3---developer-3) | - | - | - |
+| lV | [Dev 4](Developer.md#d4---developer-4) | [Tech Lead](TechLead.md#tl4---tech-lead-4) | [Eng. Team Leader l](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | - |
+| V | [Dev 5](Developer.md#d5---developer-5) | [Principal](TechLead.md#tl5---tech-lead-5) | [Eng. Team Leader ll](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | - |
+| VI | - | - | |[Eng. Manager](EngineeringManager.md#em5---engineering-manager-5) | 
+
 
 (Clique no nome da posição para mais detalhes)
 
@@ -49,14 +50,14 @@ Continue lendo para entender melhor cada nível.
 ## Technology (Tecnologia)
 
 1. **Adopts (Adota)**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
-2. **Specializes (Especializada)**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novos
+2. **Specializes (Especializa)**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novos
 3. **Evangelizes (Evangize)**: Pesquisas, cria provas de conceito e apresenta novas tecnologias para a equipe
 4. **Masters (Mestre)**: tem conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
 5. **Creates (Cria)**: projeta e cria novas tecnologias que são amplamente utilizadas por equipes internas ou externas
 
 ## System (Sistema)
 
-1. **Enhances**: empurra com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
+1. **Enhances ()**: empurra com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
 2. **Designs**: projeta e implementa recursos de tamanho médio a grande enquanto reduz a dívida tecnológica do sistema
 3. **Owns**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
 4. **Evolves**: Evolui a arquitetura para apoiar os requisitos futuros e define seus SLAs

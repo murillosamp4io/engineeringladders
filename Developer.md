@@ -13,7 +13,6 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D1 - Developer 1
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-1.png">
   <img alt="Developer 1" src="/charts/developer-1.png">
 </picture>
@@ -27,7 +26,6 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D2 - Developer 2
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-2-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-2.png">
   <img alt="Developer 2" src="/charts/developer-2.png">
 </picture>
@@ -41,7 +39,6 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D3 - Developer 3
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-3-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-3.png">
   <img alt="Developer 3" src="/charts/developer-3.png">
 </picture>
@@ -55,7 +52,6 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D4 - Developer 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-4-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-4.png">
   <img alt="Developer 4" src="/charts/developer-4.png">
 </picture>
@@ -69,7 +65,6 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D5 - Developer 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-5-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-5.png">
   <img alt="Developer 5" src="/charts/developer-5.png">
 </picture>
