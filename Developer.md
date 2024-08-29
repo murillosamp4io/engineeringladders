@@ -14,7 +14,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="/charts/developer-1.png">
-  <img alt="Developer 1" src="/charts/developer-1.png">
+  <img alt="Developer 1" src="{{site.baseurl}}/charts/developer-1.png">
 </picture>
 
 * **Adopts (Adota)**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
