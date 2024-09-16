@@ -33,13 +33,13 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 # Eixos
 
 O gráfico mostrado acima tem os seguintes 5 eixos:
-* **Technology** (Tecnologia): conhecimento da pilha de tecnologia e ferramentas
-* **System** (Sistema): nível de propriedade do(s) sistema(s)
-* **People** (Pessoas): relacionamento com a (s) equipe (s)
-* **Process** (Processos): nível de envolvimento com o processo de desenvolvimento
-* **Influence** (Influência): escopo de influência da posição
+* **Technology(Tecnologia)**: conhecimento da pilha de tecnologia e ferramentas
+* **System (Sistema)**: nível de propriedade do(s) sistema(s)
+* **People (Pessoas)**: relacionamento com a (s) equipe (s)
+* **Process (Processos)**: nível de envolvimento com o processo de desenvolvimento
+* **Influence (Influência)**: escopo de influência da posição
 
-The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+A **influência** O eixo pode ser visto como uma *dimensão diferente*, pois é ortogonal e se aplica a todos os outros eixos.
 
 Cada eixo tem 5 níveis diferentes de desempenho.É importante destacar que todos os níveis incluem o (s) anterior (s).Por exemplo, alguém que *evangelizes* technology, *specializes* e *adopts* também.
 
@@ -57,35 +57,35 @@ Continue lendo para entender melhor cada nível.
 
 ## System (Sistema)
 
-1. **Enhances ()**: empurra com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
-2. **Designs**: projeta e implementa recursos de tamanho médio a grande enquanto reduz a dívida tecnológica do sistema
-3. **Owns**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
-4. **Evolves**: Evolui a arquitetura para apoiar os requisitos futuros e define seus SLAs
-5. **Leads**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
+1. **Enhances (Aprimora)**: empurra com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
+2. **Designs (Projeta)**: projeta e implementa recursos de tamanho médio a grande enquanto reduz a dívida tecnológica do sistema
+3. **Owns (Possui)**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
+4. **Evolves (Evolui)**: Evolui a arquitetura para apoiar os requisitos futuros e define seus SLAs
+5. **Leads (Lidera)**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
 
 ## People (Pessoas)
 
-1. **Learns**: aprende rapidamente com os outros e aumenta consistentemente quando é necessário
-2. **Supports**: apoia proativamente outros membros da equipe e os ajuda a ter sucesso
-3. **Mentors**: orienta outros para acelerar seu crescimento na carreira e incentivá-los a participar
-4. **Coordinates**: Coordena os membros da equipe que fornecem feedback eficaz e moderando discussões
-5. **Manages**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
+1. **Learns (Aprende)**: aprende rapidamente com os outros e aumenta consistentemente quando é necessário
+2. **Supports (Suporta)**: apoia proativamente outros membros da equipe e os ajuda a ter sucesso
+3. **Mentors (Mentora)**: orienta outros para acelerar seu crescimento na carreira e incentivá-los a participar
+4. **Coordinates (Coordena)**: Coordena os membros da equipe que fornecem feedback eficaz e moderando discussões
+5. **Manages (Gerencia)**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
 
 ## Process (Processos)
 
-1. **Follows**: segue os processos da equipe, fornecendo um fluxo consistente de recursos para a produção
-2. **Enforces**: Aplica os processos da equipe, certificando -se de que todos entendam os benefícios e trocas
-3. **Challenges**: Desafia a equipe processa, procurando maneiras de melhorá -los
-4. **Adjusts**: Ajusta os processos da equipe, ouvindo feedback e orientando a equipe através das mudanças
-5. **Defines**: define os processos certos para o nível de maturidade da equipe, equilibrando a agilidade e a disciplina
+1. **Follows (Segue)**: segue os processos da equipe, fornecendo um fluxo consistente de recursos para a produção
+2. **Enforces (Enforces)**: Aplica os processos da equipe, certificando -se de que todos entendam os benefícios e trocas
+3. **Challenges (Desafia)**: Desafia a equipe processa, procurando maneiras de melhorá -los
+4. **Adjusts (Ajusta)**: Ajusta os processos da equipe, ouvindo feedback e orientando a equipe através das mudanças
+5. **Defines (Define)**: define os processos certos para o nível de maturidade da equipe, equilibrando a agilidade e a disciplina
 
 ## Influence (Influência)
 
-1. **Subsystem**: causam impacto em um ou mais subsistemas
-2. **Team**: causar um impacto em toda a equipe, não apenas em partes específicas
-3. **Multiple Teams**: causar um impacto não apenas sua equipe, mas também em outras equipes
-4. **Company**: causam impacto em toda a organização de tecnologia
-5. **Community**: causam impacto na comunidade de tecnologia
+1. **Subsystem (Subsistema)**: causam impacto em um ou mais subsistemas
+2. **Team (Time)**: causar um impacto em toda a equipe, não apenas em partes específicas
+3. **Multiple Teams (Múltiplos times)**: causar um impacto não apenas sua equipe, mas também em outras equipes
+4. **Company (Compania)**: causam impacto em toda a organização de tecnologia
+5. **Community (Comunidade)**: causam impacto na comunidade de tecnologia
 
 # FAQs
 
