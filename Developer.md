@@ -10,10 +10,10 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | 4 | Yes | [D4 - Developer 4](#d4---developer-4) |
 | 5 | Yes | [D5 - Developer 5](#d5---developer-5) |
 
-## D1 - Developer 1 teste
+## D1 - Developer 1
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-1.png">
+  <source media="(prefers-color-scheme: light)" srcset="{{site.baseurl}}/charts/developer-1.png">
   <img alt="Developer 1" src="{{site.baseurl}}/charts/developer-1.png">
 </picture>
 
@@ -26,8 +26,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D2 - Developer 2
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-2.png">
-  <img alt="Developer 2" src="/charts/developer-2.png">
+  <source media="(prefers-color-scheme: light)" srcset="{{site.baseurl}}/charts/developer-2.png">
+  <img alt="Developer 2" src="{{site.baseurl}}/charts/developer-2.png">
 </picture>
 
 **Adota (Adota)**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
@@ -39,8 +39,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D3 - Developer 3
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-3.png">
-  <img alt="Developer 3" src="/charts/developer-3.png">
+  <source media="(prefers-color-scheme: light)" srcset="{{site.baseurl}}/charts/developer-3.png">
+  <img alt="Developer 3" src="{{site.baseurl}}/charts/developer-3.png">
 </picture>
 
 * **Specializes (Especializa)**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novos
@@ -52,8 +52,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D4 - Developer 4
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-4.png">
-  <img alt="Developer 4" src="/charts/developer-4.png">
+  <source media="(prefers-color-scheme: light)" srcset="{{site.baseurl}}/charts/developer-4.png">
+  <img alt="Developer 4" src="{{site.baseurl}}/charts/developer-4.png">
 </picture>
 
 * **Evangelizes (Evangeliza)** Pesquisas, cria provas de conceito e apresenta novas tecnologias para a equipe
@@ -65,8 +65,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D5 - Developer 5
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-5.png">
-  <img alt="Developer 5" src="/charts/developer-5.png">
+  <source media="(prefers-color-scheme: light)" srcset="{{site.baseurl}}/charts/developer-5.png">
+  <img alt="Developer 5" src="{{site.baseurl}}/charts/developer-5.png">
 </picture>
 
 * **Masters (Mestre)** tem um conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
@@ -77,9 +77,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 # Other Pages
 
-* [**Introduction**](README.md)
+* [**Introdução**](README.md)
 * [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)
