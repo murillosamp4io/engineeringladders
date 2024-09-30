@@ -29,7 +29,7 @@ A estrutura tem 3 escadas diferentes:
 # Eixos
 
 O gráfico mostrado acima tem os seguintes 5 eixos:
-* **Technology(Tecnologia)**: conhecimento da stack de tecnologia e ferramentas
+* **Technology (Tecnologia)**: conhecimento da stack de tecnologia e ferramentas
 * **System (Sistema)**: nível de propriedade do(s) sistema(s)
 * **People (Pessoas)**: relacionamento com a(s) equipe(s)
 * **Process (Processos)**: nível de envolvimento com o processo de desenvolvimento
