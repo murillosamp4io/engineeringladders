@@ -4,10 +4,10 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 | Level | Position |
 | :---: | :---: |
-| 1 | [D1 - Developer 1](#d1---developer-1) |
-| 2 | [D2 - Developer 2](#d2---developer-2) |
-| 3 | [D3 - Developer 3](#d3---developer-3) |
-| 4 | D4 - Developer 4* |
+| 1 | [D1 - Developer 1](#developer-1) |
+| 2 | [D2 - Developer 2](#developer-2) |
+| 3 | [D3 - Developer 3](#developer-3) |
+| 4 | D4 - Developer 4(*) |
 
 ## Developer 1
 
