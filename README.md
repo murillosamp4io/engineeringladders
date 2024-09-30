@@ -16,7 +16,7 @@ A estrutura tem 3 escadas diferentes:
 * [**Engineering Team Leader**](TechnicalProgramManager.md): Função responsável por coordenar e dirigir para iniciativas de conclusão que abrangem várias equipes
 
 
-| Level | [Developer](Developer.md) | [Liderança Técnica](TechLead.md) | [Engineering Team Leader](TechnicalProgramManager.md) |
+| Nível | [Desenvolvimento](Developer.md) | [Liderança Técnica](TechLead.md) | [Gestão de pessoas](TechnicalProgramManager.md) |
 | :---: | :---: | :---: | :---: |
 | l | [Dev 1](Developer.md#developer-1) | - | - |
 | ll | [Dev 2](Developer.md#developer-2) | - | - |

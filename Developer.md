@@ -1,8 +1,8 @@
 # Developer
 
-Role also known as programmer or software engineer, requires a deep level of technical expertise.
+A função também conhecida como programador ou engenheiro de software, requer um nível profundo de experiência e qualidade técnica.
 
-| Level | Position |
+| Nível | Posição |
 | :---: | :---: |
 | 1 | [D1 - Developer 1](#developer-1) |
 | 2 | [D2 - Developer 2](#developer-2) |
