@@ -14,9 +14,7 @@ A estrutura tem 3 escadas diferentes:
 * [**Developer**](Developer.md): Função também conhecida como programador ou engenheiro de software, requer um nível profundo de experiência técnica
 * [**Tech Lead**](TechLead.md): é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte à produção 
 * [**Engineering Team Leader**](TechnicalProgramManager.md): Função responsável por coordenar e dirigir para iniciativas de conclusão que abrangem várias equipes
-<!-- * [**Engineering Manager**](EngineeringManager.md): Função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento da carreira e nível de felicidade da equipe -->
 
-<!-- If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison. -->
 
 | Level | [Developer](Developer.md) | [Liderança Técnica](TechLead.md) | [Engineering Team Leader](TechnicalProgramManager.md) |
 | :---: | :---: | :---: | :---: |
@@ -24,9 +22,6 @@ A estrutura tem 3 escadas diferentes:
 | ll | [Dev 2](Developer.md#d2---developer-2) | - | - | - |
 | lll | [Dev 3](Developer.md#d3---developer-3) | - | - | - |
 | lV | Dev 4*| Tech Lead* | Eng. Team Leader l* | - |
-<!-- | lV | [Dev 4](Developer.md#d4---developer-4) | [Tech Lead](TechLead.md#tl4---tech-lead-4) | [Eng. Team Leader l](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | - | -->
-<!-- | V | [Dev 5](Developer.md#d5---developer-5) | [Principal](TechLead.md#tl5---tech-lead-5) | [Eng. Team Leader ll](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | - |
-| VI | - | - | |[Eng. Manager](EngineeringManager.md#em5---engineering-manager-5) |  -->
 
 
 (Clique no nome da posição para mais detalhes, as posicões com "*", estão em construção)

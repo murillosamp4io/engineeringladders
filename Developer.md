@@ -8,8 +8,6 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | 2 | [D2 - Developer 2](#d2---developer-2) |
 | 3 | [D3 - Developer 3](#d3---developer-3) |
 | 4 | D4 - Developer 4* |
-<!-- | 4 | [D4 - Developer 4](#d4---developer-4) | -->
-<!-- | 5 | [D5 - Developer 5](#d5---developer-5) | -->
 
 ## Developer 1
 
@@ -50,7 +48,10 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges (Desafia)**: desafia os processos do time, procurando maneiras de melhorá -los
 * **Team (Time)**: causar um impacto em toda a equipe, não apenas em partes específicas
 
-## Developer 4 (Em Construção)
+## Developer 4 
+(Em Construção)
+
+
 <!-- 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="{{site.baseurl}}/charts/developer-4.png">
@@ -76,10 +77,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts (Ajusta)** Ajusta os processos da equipe, ouvindo feedback e orientando a equipe através das alterações
 * **Multiple Teams (várias equipes)** causam impacto não apenas em toda a equipe, mas também em outras equipes -->
 
+&nbsp;
+\
+&nbsp;
+
+
 # Other Pages
 
 * [**Introdução**](README.md)
-<!-- * [**Tech Lead**](TechLead.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md) -->
