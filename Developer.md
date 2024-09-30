@@ -4,9 +4,9 @@ A função também conhecida como programador ou engenheiro de software, requer 
 
 | Nível | Posição |
 | :---: | :---: |
-| 1 | [D1 - Developer 1](#developer-1) |
-| 2 | [D2 - Developer 2](#developer-2) |
-| 3 | [D3 - Developer 3](#developer-3) |
+| 1 | [Developer 1](#developer-1) |
+| 2 | [Developer 2](#developer-2) |
+| 3 | [Developer 3](#developer-3) |
 | 4 | D4 - Developer 4(*) |
 
 ## Developer 1
