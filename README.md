@@ -18,9 +18,9 @@ A estrutura tem 3 escadas diferentes:
 
 | Level | [Developer](Developer.md) | [Liderança Técnica](TechLead.md) | [Engineering Team Leader](TechnicalProgramManager.md) |
 | :---: | :---: | :---: | :---: |
-| l | [Dev 1](Developer.md#d1---developer-1) | - | - | - |
-| ll | [Dev 2](Developer.md#d2---developer-2) | - | - | - |
-| lll | [Dev 3](Developer.md#d3---developer-3) | - | - | - |
+| l | [Dev 1](Developer.md#d1---developer-1) | - | - |
+| ll | [Dev 2](Developer.md#d2---developer-2) | - | - |
+| lll | [Dev 3](Developer.md#d3---developer-3) | - | - |
 | lV | Dev 4*| Tech Lead* | Eng. Team Leader l* | - |
 
 
