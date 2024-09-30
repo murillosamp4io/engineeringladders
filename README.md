@@ -21,7 +21,7 @@ A estrutura tem 3 escadas diferentes:
 | l | [Dev 1](Developer.md#developer-1) | - | - |
 | ll | [Dev 2](Developer.md#developer-2) | - | - |
 | lll | [Dev 3](Developer.md#developer-3) | - | - |
-| lV | Dev 4*| Tech Lead(*) | Eng. Team Leader l(*) | - |
+| lV | Dev 4(*)| Tech Lead(*) | Eng. Team Leader l(*) | - |
 
 
 (Clique no nome da posição para mais detalhes, as posicões com (*), estão em construção)
