@@ -2,15 +2,10 @@
 
 O papel também conhecido como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento da carreira e nível de felicidade da equipe.
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 5 | Yes | [EM5 - Engineering Manager 5](#em5---engineering-manager-5) |
-| 6 | Yes | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
-| 7 | Yes | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
 
 Se você possui outros gerentes como relatórios diretos, pode querer ler a seção [Gerenciamento de gerentes] (gerenciando managers.md), pois ele fornece mais informações sobre o aspecto "gerencia as pessoas" da função.
 
-## EM5 - Engineering Manager
+## EM - Engineering Manager
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="{{site.baseurl}}/charts/engineeringmanager-5.png">

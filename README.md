@@ -9,39 +9,40 @@ A estrutura utiliza gráficos de radar para representar visualmente as diferente
 
 # Escadas de carreira
 
-A estrutura tem 4 escadas diferentes:
+A estrutura tem 3 escadas diferentes:
 
 * [**Developer**](Developer.md): Função também conhecida como programador ou engenheiro de software, requer um nível profundo de experiência técnica
 * [**Tech Lead**](TechLead.md): é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte à produção 
 * [**Engineering Team Leader**](TechnicalProgramManager.md): Função responsável por coordenar e dirigir para iniciativas de conclusão que abrangem várias equipes
-* [**Engineering Manager**](EngineeringManager.md): Função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento da carreira e nível de felicidade da equipe
+<!-- * [**Engineering Manager**](EngineeringManager.md): Função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento da carreira e nível de felicidade da equipe -->
 
-If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
+<!-- If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison. -->
 
-| Level | [Developer](Developer.md) | [Liderança Técnica](TechLead.md) | [Engineering Team Leader](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
-| :---: | :---: | :---: | :---: |  :---: |
+| Level | [Developer](Developer.md) | [Liderança Técnica](TechLead.md) | [Engineering Team Leader](TechnicalProgramManager.md) |
+| :---: | :---: | :---: | :---: |
 | l | [Dev 1](Developer.md#d1---developer-1) | - | - | - |
 | ll | [Dev 2](Developer.md#d2---developer-2) | - | - | - |
 | lll | [Dev 3](Developer.md#d3---developer-3) | - | - | - |
-| lV | [Dev 4](Developer.md#d4---developer-4) | [Tech Lead](TechLead.md#tl4---tech-lead-4) | [Eng. Team Leader l](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | - |
-| V | [Dev 5](Developer.md#d5---developer-5) | [Principal](TechLead.md#tl5---tech-lead-5) | [Eng. Team Leader ll](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | - |
-| VI | - | - | |[Eng. Manager](EngineeringManager.md#em5---engineering-manager-5) | 
+| lV | Dev 4*| Tech Lead* | Eng. Team Leader l* | - |
+<!-- | lV | [Dev 4](Developer.md#d4---developer-4) | [Tech Lead](TechLead.md#tl4---tech-lead-4) | [Eng. Team Leader l](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | - | -->
+<!-- | V | [Dev 5](Developer.md#d5---developer-5) | [Principal](TechLead.md#tl5---tech-lead-5) | [Eng. Team Leader ll](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | - |
+| VI | - | - | |[Eng. Manager](EngineeringManager.md#em5---engineering-manager-5) |  -->
 
 
-(Clique no nome da posição para mais detalhes)
+(Clique no nome da posição para mais detalhes, as posicões com "*", estão em construção)
 
 # Eixos
 
 O gráfico mostrado acima tem os seguintes 5 eixos:
-* **Technology(Tecnologia)**: conhecimento da pilha de tecnologia e ferramentas
+* **Technology(Tecnologia)**: conhecimento da stack de tecnologia e ferramentas
 * **System (Sistema)**: nível de propriedade do(s) sistema(s)
-* **People (Pessoas)**: relacionamento com a (s) equipe (s)
+* **People (Pessoas)**: relacionamento com a(s) equipe(s)
 * **Process (Processos)**: nível de envolvimento com o processo de desenvolvimento
 * **Influence (Influência)**: escopo de influência da posição
 
 A **influência** O eixo pode ser visto como uma *dimensão diferente*, pois é ortogonal e se aplica a todos os outros eixos.
 
-Cada eixo tem 5 níveis diferentes de desempenho.É importante destacar que todos os níveis incluem o (s) anterior (s).Por exemplo, alguém que *evangelizes* technology, *specializes* e *adopts* também.
+Cada eixo tem 5 níveis diferentes de desempenho. É importante destacar que todos os níveis incluem os anteriores.Por exemplo, alguém que evangeliza tecnologia, também especializa e adota.
 
 Continue lendo para entender melhor cada nível.
 
@@ -50,26 +51,26 @@ Continue lendo para entender melhor cada nível.
 ## Technology (Tecnologia)
 
 1. **Adopts (Adota)**: Aprende e adota ativamente a tecnologia e as ferramentas definidas pela equipe
-2. **Specializes (Especializa)**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novos
-3. **Evangelizes (Evangize)**: Pesquisas, cria provas de conceito e apresenta novas tecnologias para a equipe
-4. **Masters (Mestre)**: tem conhecimento muito profundo sobre toda a pilha de tecnologia do sistema
+2. **Specializes (Especializa)**: é a pessoa preferida para uma ou mais tecnologias e toma iniciativa para aprender novas
+3. **Evangelizes (Evangize)**: Pesquisa, cria provas de conceito e apresenta novas tecnologias para a equipe
+4. **Masters (Mestre)**: tem conhecimento muito profundo sobre toda a stack de tecnologia do sistema
 5. **Creates (Cria)**: projeta e cria novas tecnologias que são amplamente utilizadas por equipes internas ou externas
 
 ## System (Sistema)
 
-1. **Enhances (Aprimora)**: empurra com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
+1. **Enhances (Aprimora)**: desenvolve com sucesso novos recursos e correções de bugs para melhorar e estender o sistema
 2. **Designs (Projeta)**: projeta e implementa recursos de tamanho médio a grande enquanto reduz a dívida tecnológica do sistema
 3. **Owns (Possui)**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
 4. **Evolves (Evolui)**: Evolui a arquitetura para apoiar os requisitos futuros e define seus SLAs
-5. **Leads (Lidera)**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
+5. **Leads (Lidera)**: lidera a excelência técnica do sistema e cria planos para mitigar indisponibilidades
 
 ## People (Pessoas)
 
-1. **Learns (Aprende)**: aprende rapidamente com os outros e aumenta consistentemente quando é necessário
-2. **Supports (Suporta)**: apoia proativamente outros membros da equipe e os ajuda a ter sucesso
-3. **Mentors (Mentora)**: orienta outros para acelerar seu crescimento na carreira e incentivá-los a participar
-4. **Coordinates (Coordena)**: Coordena os membros da equipe que fornecem feedback eficaz e moderando discussões
-5. **Manages (Gerencia)**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
+1. **Learns (Aprende)**: aprende rapidamente com os outros e evolui consistentemente.
+2. **Supports (Suporta)**: apoia proativamente outros membros da equipe e os ajudam a ter sucesso.
+3. **Mentors (Mentora)**: orienta outros para acelerar seu crescimento na carreira e incentiva o crescimento.
+4. **Coordinates (Coordena)**: Coordena os membros da equipe, fornecem feedback eficaz e modera discussões.
+5. **Manages (Gerencia)**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe.
 
 ## Process (Processos)
 
@@ -103,14 +104,14 @@ As empresas geralmente esperam que uma pessoa esteja se apresentando no próximo
 
 **Como coleto evidências para apoiar a discussão com meus relatórios diretos?**
 
-Equipes diferentes coletam evidências de maneiras diferentes.Uma abordagem recomendada é usar uma combinação de:
+Equipes diferentes coletam evidências de maneiras diferentes. Uma abordagem recomendada é usar uma combinação de:
 * 1:1 conversas
 * Feedback de colegas e outras equipes
 * Auto-avaliação
 
 **A estrutura poderia fornecer exemplos mais específicos de comportamento para apoiar cada nível?**
 
-Exemplos específicos de comportamento exigem conhecimento sobre a maneira como a equipe funciona, a arquitetura do sistema e sua pilha de tecnologia.Recomenda -se permitir que cada equipe defina seus próprios exemplos.
+Exemplos específicos de comportamento exigem conhecimento sobre a maneira como a equipe funciona, a arquitetura do sistema e sua stack de tecnologia. Recomenda -se permitir que cada equipe defina seus próprios exemplos.
 
 <!-- **TBD**
 
